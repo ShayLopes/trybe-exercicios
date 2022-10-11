@@ -1,31 +1,29 @@
 # GIT E GITHUB
 
-# Git, GitHub e Internet
+Como funciona o versionamento. 
 
-Os comandos ficam da seguinte forma:
+- primeiramente nós criamos uma pasta do repositório a partir do terminal
+- usamos o comando “git init” para iniciar o processo de estrutura 
+- abrimos a IDE a partir do comando code .
+- com a IDE aberta criamos um README.md para adicionar as instruções do projeto 
+- após isso podemos usar o comando "git checkout -b nova-branch" para criar uma nova branch 
+- navegamos até a branch com o comando "git checkout nova-branch"
+- dentro da branch adicionamos os arquivos desejados com o comando "git add ." (para adicionar todos os arquivos) ou "git add nome nome-do-arquivo."
+- após os arquivos adicionados damos um commit com o comando "git commit -m "nome do commit" 
+- executamos as alterações, commitamos novamente e vamos para o merge 
+- sempre utilizar o "git status" afim de entender oque está acontecendo
+- após tudo isso navegar até a main e utilizar o comando "git merge nome-da-branch"
 
-- `git add .` ou `git add nome-do-arquivo nome-do-outro-arquivo`: adiciona as modificações em `staging`, que informa ao *git* as modificações realizadas e que vão estar no próximo `commit`;
-- `git commit -m "Mensagem sobre as alterações realizadas"`: informa quais alterações foram realizadas e cria uma versão do projeto que pode ser acessada a qualquer momento;
-- `git status`: é utilizado sempre que você quiser verificar o que foi alterado.
+git log → mostra o log de ações
 
-> 👀 De olho na dica: É considerada uma boa prática o hábito de realizar commits com frequência. Isso facilita o acompanhamento das alterações e também na correção de possíveis erros em seu código. Procure evitar commits muito extensos e/ou com muitas alterações.
-> 
-
-### Relembrando 🧠
-
-Resumidamente, o processo acontece nessa ordem:
-
-- Uma pasta é criada para armazenar um repositório local: `mkdir <nome da pasta>`;
-- A pasta criada é acessada: `cd <nome da pasta criada>`;
-- Um repositório local é iniciado nessa pasta, e é possível ter o controle de versionamento: `git init`;
-- É realizada uma modificação inicial, por exemplo: `touch README.md`;
-- Verificamos quais arquivos foram alterados: `git status`;
-- Adicionamos os arquivos modificados e selecionados ao que será a próxima versão: `git add` (`git add README.md` ou `git add .`);
-- Uma nova versão desse repositório local é criada com uma descrição do que essa versão muda em relação a antiga: `git commit -m "Mensagem desejada"`;
-- 
-    
-    ![Captura de Tela 2022-10-10 às 15.10.08.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df3a9f0c-033b-4cd1-b9a0-91126c84abd1/Captura_de_Tela_2022-10-10_as_15.10.08.png)
-    
     Não usar o git init em pastas home ou raiz (”~ /”) 
     Não dar o git init dentro de uma pasta que já existe git init 
     Usar o ls -la para verificar se já existe um arquivo .git
+
+- git init 
+- git add nome-do-arquivo
+- git add .
+- git status
+- git log 
+- git merge
+- git branch 
