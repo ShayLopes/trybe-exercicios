@@ -1,9 +1,9 @@
-# Trybe
+# Repositório TRYBE
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Shay](https://www.linkedin.com/in/shaylopes/)_ enquanto estudava na [Trybe] :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Shay](https://www.linkedin.com/in/shaylopes/)_ enquanto estuda na [Trybe] (https://www.betrybe.com/) :rocket:
 
 
-## Fundamentos do Desenvolvimento Web :white_check_mark:
+## Fundamentos do Desenvolvimento Web 🛠
 
 - [x] - Bloco 1: Introdução - Unix & Shell_
 - [x] - Bloco 2: Git & GitHub_
@@ -14,7 +14,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] - Bloco 7: Introdução à JavaScript ES6 e Testes Unitários_
 - [ ] - Bloco 8: Higher Order Functions do JavaScript ES6_
 
-## Front-end :white_check_mark:
+## Front-end 🖥
 
 - [ ] - Bloco 1: JavaScript e Testes Assíncronos_
 - [ ] - Bloco 2: Introdução ao React_
@@ -27,7 +27,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] - Bloco 9: Context API e React Hooks_
 - [ ] - Bloco 10: Projeto App de Receitas_
 
-## Back-end :white_check_mark:
+## Back-end ⚙️
 
 - [ ] - Bloco 1: Utilizando Containers_
 - [ ] - Bloco 2: Introdução à SQL_
@@ -44,7 +44,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] - Bloco 13: Projeto - APP de Delivery_
 - [ ] - Bloco 14: MasterClass - VPS, CI/CD_
 
-## Ciência da Computação :white_check_mark:
+## Ciência da Computação 📊
 
 - [ ] - Bloco 1: Introdução à Python_
 - [ ] - Bloco 2: Padrões de Projeto_
@@ -53,4 +53,4 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] - Bloco 5: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas_
 - [ ] - Bloco 6: Estrutura de Dados II: Hashmaps e Sets_
 
-## :rocket:
+### :rocket:
