@@ -53,4 +53,4 @@
  - [ ] - Block 5: Data Structure I: Arrays, Lists, Queues and Stacks_
  - [ ] - Block 6: Data Structure II: Hashmaps and Sets_
 
-#:rocket:
+:rocket:
