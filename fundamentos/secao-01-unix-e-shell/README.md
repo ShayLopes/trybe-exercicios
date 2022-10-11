@@ -1,134 +1,15 @@
-# UNIX E SHELL
+# Seção - UNIX E SHELL
 
-## Bash / Terminal
+Esse bloco pertence ao módulo de `fundamentos` do curso da [Trybe](https://www.betrybe.com/). Nesse bloco aprendi a navegar pelo terminal, criar, mover e apagar arquivos e diretórios. Também aprendi a editar documentos adicionando e/ou organizando dados.
 
-echo > → adiciona sobre-escrevendo o conteúdo
+Sou capaz de:
 
-echo >> → adiciona sem sobre-escrever o conteúdo
+Utilizar o comando find;
 
-man → acessa o manual do comando 
+Utilizar os operadores > (maior), >> (maior maior) e | (pipe) no terminal;
 
-cd → navegar entre diretórios
+Alterar as permissões de arquivos e diretórios;
 
-cd.. → retornar um diretório 
+Verificar o status e enviar sinais a processos UNIX;
 
-touch → cria arquivos
-
-ls → verificar quais os itens do diretório
-
-ls * → listar todos os arquivos
-
-ls -l → infos a + dos arquivos
-
-../ → atalho para voltar um diretório (automaticamente) 
-
-head -5 → exibe as 5 primeiras linhas do arquivo
-
-tail -4 → exibe as 4 ultimas linhas do arquivo
-
-rm - remove o documento 
-
-rmdir - remove o diretório 
-
-rm -rf - remove o diretório com o conteúdo incluso (irreversível) 
-
-rm *.txt - remove todos os documentos terminando em .txt
-
-grep - busca dentro do arquivo;
-
-[grep - Encontre trechos de código no terminal do Linux - Tecnoblog](https://tecnoblog.net/responde/grep-tutorial-linux-codigo/)
-
-cat → mostra as infos do arquivo
-
-cat >  → receber valores como inputs (ctrl + d p/ fechar)
-
-cat >> → adiciona mais valores ao arquivo
-
-cat arquivo1 arquivo2 > arquivo3 → envia as infos do arquivo 1 e 2 para o 3
-
-sort < → coloca em ordem alfabética 
-
-sort < arquivo1 > arquivoOrdenado → cria um arquivo com as infos ordenadas
-
-wc → lista linhas palavras e letras
-
-wc -w → quantidade de palavras
-
-wc -l → quantidade de linhas
-
-wc -c → quantidade de caracteres
-
-who → quem tem acesso ao terminal 
-
-chmod u → alterar as permissões do arquivo apenas pro usuário que está utilizando
-
-chmod g → alterar as permissões do arquivo para usuário do grupo 
-
-chmod o → alterar as permissões do arquivo outros usuários
-
-chmod a → alterar as permissões do arquivo todos 
-
-chmod u- → retirar permissão (u, g, o, ou a)
-
-chmod u+ → adicionar permissão  (u, g, o, ou a)
-
-chmod u= → altera para original  (u, g, o, ou a)
-
-ps → lista os processos
-
-sleep 10 & → deixa o processo em pausa por 10 segundos no background
-
-bg → deixar o processo em background
-
-jobs → processos que estão rodando
-
-crtl z → coloca em background
-
-fg %1 → volta a executar o processo
-
-crtl c → mata o processo
-
-kill % 1 → mata o primeiro processo background
-
-kill -9 7816 → força a morte do processo 7816
-
-& → coloca o comando em background 
-
-&& → executa o próximo comando apenas se o comando anterior tiver sucesso
-
--o → redirecionar a saída do comando (ex: sort  arquivo -o arquivo) 
-
-![Captura de Tela 2022-10-07 às 15.39.17.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bf1f86a6-a4dd-4005-83c5-fae7efc007ec/Captura_de_Tela_2022-10-07_as_15.39.17.png)
-
-![Captura de Tela 2022-10-07 às 15.40.05.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8faa30df-31bf-4f1f-bb0b-59aa49da4520/Captura_de_Tela_2022-10-07_as_15.40.05.png)
-
-### Tipos de acessos
-
-(arquivo.txt)
-
--rw-r- - r - - 
-
-R   - Ler 
-
-W  - Editar  
-
-X   - Acessar pelo comando cd
-
-”-” - Arquivo comum 
-
-D   - Diretório 
-
-Sequencia 
-1 - parte mostra o tipo do arquivo 
-
-2 - permissões do arquivo 
-
-3 - grupo do usuário 
-
-4 - outros usuários de outros grupos 
-
--rw-r- - r - - 
-
-Arquivo comum, permite leitura, permite edição, nega execução, apenas leitura dos grupos
-
-![Captura de Tela 2022-10-07 às 15.30.54.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d0524f45-8a27-4cae-9a24-91b08f6b827a/Captura_de_Tela_2022-10-07_as_15.30.54.png)
+Tendo isso em mente aqui você encontrará os exercícios que desenvolvi para fixar os conhecimentos que adquiri ao longo desse bloco. Além disso também desenvolvi o projeto ao final de bloco para avaliar tudo o que havia aprendido, você pode acessá-lo [aqui](linkProjetoDoBloco).
