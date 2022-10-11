@@ -1,6 +1,6 @@
 # Repositório TRYBE
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Shay](https://www.linkedin.com/in/shaylopes/)_ enquanto estuda na _[Trybe] (https://www.betrybe.com/)_ :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Shay](https://www.linkedin.com/in/shaylopes/)_ enquanto estuda na Trybe :rocket:
 
 
 ## Fundamentos do Desenvolvimento Web.  🛠
