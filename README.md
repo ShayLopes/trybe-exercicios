@@ -2,6 +2,7 @@
 
  This repository contains all the learning activities developed by me (_[Shay](https://www.linkedin.com/in/shaylopes/)_) while studying at Trybe. 🛫
 
+The program has more than 1,500 hours of classroom and online classes, covers introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies and behavioral skills.
 
 ## Fundamentals of Web Development - 🛠
 
