@@ -1,8 +1,8 @@
-<nomeTag atribute = “valor”>
+nomeTag atribute = “valor”
 
 conteúdo da tag
 
-</nomeTag>
+/nomeTag
 
 DOCTYBE → Info para o navegador saber qual o tipo do documento (ex: <!DOCTYPE html>) 
 
