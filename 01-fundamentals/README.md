@@ -12,8 +12,8 @@
 - [x] 2.3 - Internet - Understanding how it works
 
 ##### Block 3: Introduction to HTML and CSS
-- [ ] 3.1 - Introduction - HTML & CSS
-- [ ] 3.1 - HTML & CSS - Page Structures
+- [x] 3.1 - Introduction - HTML & CSS
+- [x] 3.1 - HTML & CSS - Page Structures
 - [ ] 3.2 - HTML & CSS - Getting Started with CSS
 - [ ] 3.3 - HTML & CSS - Selectors and Positioning
 - [ ] 3.4 - Semantic HTML
