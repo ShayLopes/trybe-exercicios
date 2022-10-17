@@ -1,4 +1,4 @@
-dia 2 ————————————————————————
+dia 2 ————————————————————————-
 
 [csszengarden.com](http://csszengarden.com) (ideias para estilização com css)
 
