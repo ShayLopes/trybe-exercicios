@@ -14,9 +14,9 @@
 ##### Block 3: Introduction to HTML and CSS
 - [x] 3.1 - Introduction - HTML & CSS
 - [x] 3.1 - HTML & CSS - Page Structures
-- [ ] 3.2 - HTML & CSS - Getting Started with CSS
-- [ ] 3.3 - HTML & CSS - Selectors and Positioning
-- [ ] 3.4 - Semantic HTML
+- [x] 3.2 - HTML & CSS - Getting Started with CSS
+- [x] 3.3 - HTML & CSS - Selectors and Positioning
+- [x] 3.4 - Semantic HTML
 - [ ] 3.5 - Project - Lessons Learned
 
 ##### Block 4: Introduction to JavaScript and Programming Logic
