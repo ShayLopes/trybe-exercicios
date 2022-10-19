@@ -2,17 +2,6 @@
     font-family: Baskerville;
 }
 
-
-.titulo{
-    text-align: center;
-    font-size: 30px;
-}
-
-.sub-titulo{
-    text-align: center;
-    font-size: 20px;
-}
-
 a{
     text-decoration: none;
     color: brown;
@@ -34,11 +23,16 @@ footer{
     margin-left: 68%;
 }
 
-.indice{
-    position: absolute;
-    display: inline-block;
-    padding-bottom: 100px;
-    margin-left: 3%;
+
+
+.titulo{
+    text-align: center;
+    font-size: 30px;
+}
+
+.sub-titulo{
+    text-align: center;
+    font-size: 20px;
 }
 
 
@@ -58,12 +52,6 @@ footer{
     text-align: justify;
     font-size: 20px;
     margin-top: 10px;
-}
-
-#referencias{
-    margin-top: ;
-    margin-right: 30%;
-    margin-left: 20%;
 }
 
 .titulo-aside{
@@ -88,4 +76,23 @@ footer{
 
 .titulo-invisivel{
     display:none;
+}
+
+#indice{
+    margin-top: 10px;
+    position: absolute;
+    display: inline-block;
+    padding-bottom: 100px;
+    margin-left: 3%;
+}
+
+#indice ul li{
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+#referencias{
+    font-weight: normal;
+    margin-right: 30%;
+    margin-left: 20%;
 }
