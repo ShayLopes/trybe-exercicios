@@ -17,13 +17,13 @@
 - [x] 3.2 - HTML & CSS - Getting Started with CSS
 - [x] 3.3 - HTML & CSS - Selectors and Positioning
 - [x] 3.4 - Semantic HTML
-- [ ] 3.5 - Project - Lessons Learned
+- [x] 3.5 - Project - Lessons Learned
 
 ##### Block 4: Introduction to JavaScript and Programming Logic
-- [ ] 4.1 - Introduction - JavaScript
-- [ ] 4.1 - JavaScript - Getting Started
-- [ ] 4.2 - JavaScript - Array and For loop
-- [ ] 4.3 - JavaScript - Programming Logic and Algorithms
+- [x] 4.1 - Introduction - JavaScript
+- [x] 4.1 - JavaScript - Getting Started
+- [x] 4.2 - JavaScript - Array and For loop
+- [x] 4.3 - JavaScript - Programming Logic and Algorithms
 - [ ] 4.4 - JavaScript - Objects and Functions
 - [ ] 4.5 - Project - Playground Functions
 
