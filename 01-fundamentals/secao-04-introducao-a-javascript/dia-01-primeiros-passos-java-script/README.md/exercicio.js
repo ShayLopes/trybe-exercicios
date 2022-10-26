@@ -193,5 +193,24 @@ function calculaAliquotaIR(j){
     }
 }
 
+const array = [2, 3, 2, 5, 8, 2, 3];
+let contagem = 0;
+let contagem2 = 0;
+
+for(i of array){
+    console.log(i);
+    let numero = array [i];
+    for (j of array){
+        if(numero === array[j]){
+            contagem ++;
+        }
+    }
+    if(contagem > contagem2){
+        contagem2 = contagem;
+    }
+}
+
+console.log(contagem);
+
 
 
