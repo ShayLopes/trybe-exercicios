@@ -24,7 +24,7 @@
 - [x] 4.1 - JavaScript - Getting Started
 - [x] 4.2 - JavaScript - Array and For loop
 - [x] 4.3 - JavaScript - Programming Logic and Algorithms
-- [ ] 4.4 - JavaScript - Objects and Functions
+- [x] 4.4 - JavaScript - Objects and Functions
 - [ ] 4.5 - Project - Playground Functions
 
 ##### Block 5: JavaScript: DOM, Events and Web Storage
