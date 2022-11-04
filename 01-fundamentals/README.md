@@ -25,13 +25,13 @@
 - [x] 4.2 - JavaScript - Array and For loop
 - [x] 4.3 - JavaScript - Programming Logic and Algorithms
 - [x] 4.4 - JavaScript - Objects and Functions
-- [ ] 4.5 - Project - Playground Functions
+- [x] 4.5 - Project - Playground Functions
 
 ##### Block 5: JavaScript: DOM, Events and Web Storage
-- [ ] 5.1 - JavaScript - DOM and selectors
-- [ ] 5.2 - JavaScript - Working with elements
-- [ ] 5.3 - JavaScript - Events
-- [ ] 5.4 - JavaScript - Web Storage
+- [x] 5.1 - JavaScript - DOM and selectors
+- [x] 5.2 - JavaScript - Working with elements
+- [x] 5.3 - JavaScript - Events
+- [x] 5.4 - JavaScript - Web Storage
 - [ ] 5.5 - Fundamentals - JavaScript - Projects
 - [ ] 5.5 - Project - Pixel Art
 - [ ] 5.6 - Project - Task List
