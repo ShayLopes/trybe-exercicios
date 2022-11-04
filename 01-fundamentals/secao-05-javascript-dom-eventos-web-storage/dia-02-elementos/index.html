@@ -59,6 +59,7 @@
     <script>
         let elementh1 = document.createElement('h1');
         elementh1.innerText = "Exercício - JavaScript DOM";
+        elementh1.className = "title";
         document.body.appendChild(elementh1);
 
         let main = document.createElement('main');
@@ -74,11 +75,11 @@
         section1.appendChild(p1);
 
         let section2 = document.createElement('section');
-        section2.id = 'left-content';
+        section2.className = 'left-content';
         main.appendChild(section2);
 
         let section3 = document.createElement('section');
-        section3.id = 'right-content';
+        section3.className = 'right-content';
         main.appendChild(section3);
 
         let img1 = document.createElement('img');
@@ -98,9 +99,18 @@
         for (i = 1; i <= 3; i += 1){
             let elementh3 = document.createElement('h3');
             elementh3.innerHTML = 'titulo ' + i;
+            elementh3.className = 'description';
             main.appendChild(elementh3);
         }
 
+        let leftContent = document.getElementsByClassName('left-content')[0];
+        main.removeChild(leftContent);
+
+        let rightContent = document.getElementsByClassName('right-content')[0];
+        rightContent.style.marginRight = 'auto';
+
+        let centerContent = document.getElementsByClassName('center-content')[0];
+        centerContent.parentNode.style.backgroundColor = 'green';
 
     </script>
   </body>
