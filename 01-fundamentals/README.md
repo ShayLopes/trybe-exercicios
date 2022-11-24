@@ -32,26 +32,26 @@
 - [x] 5.2 - JavaScript - Working with elements
 - [x] 5.3 - JavaScript - Events
 - [x] 5.4 - JavaScript - Web Storage
-- [ ] 5.5 - Fundamentals - JavaScript - Projects
-- [ ] 5.5 - Project - Pixel Art
-- [ ] 5.6 - Project - Task List
-- [ ] 5.7 - (Bonus) Project - Meme Generator
+- [x] 5.5 - Fundamentals - JavaScript - Projects
+- [x] 5.5 - Project - Pixel Art
+- [x] 5.6 - Project - Task List
+- [x] 5.7 - (Bonus) Project - Meme Generator
 - [ ] 5.7 - (Bonus) Project - Guess the Color
 - [ ] 5.7 - (Bonus) Project - Mystery Letter
 
 ##### Block 6: HTML and CSS: Forms, Flexbox and Responsive
-- [ ] 6.1 - HTML & CSS - Forms
-- [ ] 6.2 - JavaScript Libraries and CSS Frameworks
-- [ ] 6.3 - Introduction - CSS Flexbox
-- [ ] 6.3 - CSS Flexbox - Part 1
-- [ ] 6.4 - CSS Flexbox - Part 2
-- [ ] 6.5 - Responsive CSS - Mobile First
-- [ ] 6.6 - Project - Facebook homepage
+- [x] 6.1 - HTML & CSS - Forms
+- [x] 6.2 - JavaScript Libraries and CSS Frameworks
+- [x] 6.3 - Introduction - CSS Flexbox
+- [x] 6.3 - CSS Flexbox - Part 1
+- [x] 6.4 - CSS Flexbox - Part 2
+- [x] 6.5 - Responsive CSS - Mobile First
+- [x] 6.6 - Project - Trybewarts
 
 ##### Block 7: Introduction to JavaScript ES6 and Unit Tests
-- [ ] 7.1 - JavaScript ES6 - let, const, arrow functions and template literals
-- [ ] 7.2 - JavaScript ES6 - Objects
-- [ ] 7.3 - Unit tests in JavaScript
+- [x] 7.1 - JavaScript ES6 - let, const, arrow functions and template literals
+- [x] 7.2 - JavaScript ES6 - Objects
+- [x] 7.3 - Unit tests in Jest
 - [ ] 7.4 - Project - JavaScript Unit Tests
 
 ##### Block 8: Higher Order Functions of JavaScript ES6
