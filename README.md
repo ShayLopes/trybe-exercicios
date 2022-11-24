@@ -9,10 +9,10 @@ The program has more than 1,500 hours of classroom and online classes, covers in
  - [x] - Block 1: Introduction - Unix & Shell_
  - [x] - Block 2: Git & GitHub_
  - [x] - Block 3: Introduction to HTML & CSS_
- - [ ] - Block 4: Introduction to JavaScript_
- - [ ] - Block 5: JavaScript: DOM, Events and Web Storage_
- - [ ] - Block 6: HTML and CSS: Forms, Flexbox and Responsive_
- - [ ] - Block 7: Introduction to JavaScript ES6 and Unit Tests_
+ - [x] - Block 4: Introduction to JavaScript_
+ - [x] - Block 5: JavaScript: DOM, Events and Web Storage_
+ - [x] - Block 6: HTML and CSS: Forms, Flexbox and Responsive_
+ - [x] - Block 7: Introduction to JavaScript ES6 and Unit Tests_
  - [ ] - Block 8: Higher Order Functions of JavaScript ES6_
 
 ## Front-end - 🖥
