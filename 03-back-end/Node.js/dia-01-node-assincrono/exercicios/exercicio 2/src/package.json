@@ -1,12 +1,16 @@
 {
-  "name": "src",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "name": "exercicio-2",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ex2": "node index.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
